@@ -4,7 +4,8 @@ Greetings, this is @phantomica
 - 📫 Reach me at "phantomica.code@gmail.com"
 
 Ongoing Projects:
-- Manager: A temporary hub for various windows settings that will result in 1CommandLine
+- OneCommandLine: An Interface to help execute ANYTHING
+- shadow-v-2: python voice ai with help of ChatGPT
 
 <!---
 phantomica/phantomica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
