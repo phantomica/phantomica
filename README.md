@@ -1,10 +1,8 @@
-Greetings, this is @phantomica
+Helu this is @phantomica
 
-- 🌱 I’m currently learning how to stay mentally stable while programming node js
-- 📫 Reach me at "phantomica.code@gmail.com"
+I’m currently learning how to stay mentally stable while programming node js
 
-Ongoing Projects:
-- OneCommandLine: An Interface to help execute ANYTHING
+📫 Reach me at "phantomica.code@gmail.com"
 
 <!---
 phantomica/phantomica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
